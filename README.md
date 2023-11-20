@@ -28,7 +28,8 @@
 
 ## Output:
 ![image](https://github.com/arshitha7/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/144979143/583fa482-e089-44eb-bd03-cb7fe48c61f3)
-![image](https://github.com/arshitha7/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/144979143/78294286-d33a-4264-9293-6623142c5133)
+![image](https://github.com/arshitha7/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/144979143/a5554cc3-18b9-41c0-bbeb-ea57fbeed529)
+
 ![image](https://github.com/arshitha7/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/144979143/d31a166e-8a0a-4ffa-a8ae-755c46dd9dd6)
 
 ### Name:
